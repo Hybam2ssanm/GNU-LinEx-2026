@@ -1,4 +1,4 @@
-# GNU LinEx-2026-(gum)
+# GNU LinEx 2026 (gum)
 
 Actualización comunitaria de gnuLinEx basada en Debian y KDE Plasma. Modernización del antigüo sistema operativo escolar y autonómico de Extremadura.
 
