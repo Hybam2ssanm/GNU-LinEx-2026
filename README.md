@@ -1,7 +1,6 @@
-# GNU-LinEx-2026
-Actualización comunitaria de gnuLinEx basada en Debian y KDE Plasma. Modernización del antigüo sistema operativo escolar y autonómico de Extremadura.
+# GNU LinEx-2026-(gum)
 
-# GNU LinEx-2026-Gum
+Actualización comunitaria de gnuLinEx basada en Debian y KDE Plasma. Modernización del antigüo sistema operativo escolar y autonómico de Extremadura.
 
 ## Historia y contexto
 **gnuLinEx** fue un sistema operativo pionero desarrollado por la Junta de Extremadura (España), cuya primera versión vio la luz a principios de la década de 2000 (impulsado fuertemente entre 2002 y los años posteriores en centros educativos y la administración pública). Tras años de uso en las aulas y sobre todo en los ultraportátiles escolares, el proyecto oficial fue discontinuado en 2013 con sus últimas distribuciones.
